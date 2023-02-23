@@ -1,4 +1,4 @@
-# ALoweQGame
+# QGame
  A simple Q-Game
 
 Made with WinForms in VisualStudios
